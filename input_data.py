@@ -1,0 +1,5 @@
+name=("enter your name")
+age=("enter your age")
+location=("enter your location")
+message=(f"Hello, i am {name}, am {age} years old and i live in {location}.")
+print(message)
